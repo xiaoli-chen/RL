@@ -17,5 +17,7 @@ The flappy bird here is very simple. The algorithm used is simply distrbuting th
   * If it gives error like:  'GymEnvironment' object has no attribute 'env'. It is not the GymEnvironment. check the error message above the 'GymEnvironment' one, you will have the true error is that you need to install several other tools, like: cmake, swig, box2d, zlib1g-dev, ffmpeg
   * and then pip install gym, and pip install gym\[all]
   * You need install tensorflow
+  * To run the rocket landing, use:
+  > python ppo.py
   
   
