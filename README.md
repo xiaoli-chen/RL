@@ -2,7 +2,7 @@
 Small Project for Reinforcement Learning
 
 ## 1. Flappy Bird
-The flappy bird here is very simple. The algorithm used is simply distrbuting the final rewards along the flying-path. It is not Q-learning (which will require iterative updating q(s,a) with adjecent q(s,a),r,and q(s',a').
+The flappy bird here is very simple. The algorithm used is simply distrbuting the final rewards along the flying-path. It is not Q-learning (which will require iterative updating q(s,a) with adjecent q(s,a), r, and q(s',a').
 
 * run the flapppy bird
   * mode 'Run', which is using pretrained weights
