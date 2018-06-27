@@ -12,9 +12,10 @@ The flappy bird here is very simple. The algorithm used is simply distrbuting th
   
 ## 2. Rocket Landing
   The code is forked from [IISource](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) and [EmberceArc](https://github.com/EmbersArc/PPO). With a little modification.
+  
   Use guidence:
-  * before run the code, you need install several tools. 
-  * these tools are: cmake, swig, box2d, zlib1g-dev, ffmpeg
+  * If it gives error like:  'GymEnvironment' object has no attribute 'env'. It is not the GymEnvironment. check the error message above the 'GymEnvironment' one, you will have the true error is that you need to install several other tools, like: cmake, swig, box2d, zlib1g-dev, ffmpeg
   * and then pip install gym, and pip install gym\[all]
+  * You need install tensorflow
   
   
