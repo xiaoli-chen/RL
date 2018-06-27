@@ -1,0 +1,13 @@
+{
+  "envs/algorithmic/tests/test_algorithmic.py": true,
+  "envs/tests/test_determinism.py": true,
+  "envs/tests/test_envs.py": true,
+  "envs/tests/test_envs_semantics.py": true,
+  "envs/tests/test_registration.py": true,
+  "spaces/tests/test_spaces.py": true,
+  "tests/test_core.py": true,
+  "utils/tests/test_atexit.py": true,
+  "utils/tests/test_seeding.py": true,
+  "wrappers/monitoring/tests/test_video_recorder.py": true,
+  "wrappers/tests/test_wrappers.py": true
+}
