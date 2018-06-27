@@ -11,5 +11,5 @@ The flappy bird here is very simple. The algorithm used is simply distrbuting th
   > python main_bird.py --mode 'Train'
   
 ## 2. Rocket Landing
-
+  The Rocket landing code is modified from IISource[https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket] and EmberceArc[https://github.com/EmbersArc/PPO]. 
   
