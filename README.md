@@ -11,5 +11,16 @@ The flappy bird here is very simple. The algorithm used is simply distrbuting th
   > python main_bird.py --mode 'Train'
   
 ## 2. Rocket Landing
-  The Rocket landing code is modified from IISource[https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket] and EmberceArc[https://github.com/EmbersArc/PPO]. 
+  The code is forked from [IISource](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) and [EmberceArc](https://github.com/EmbersArc/PPO). With a little modification.
+  Use guidence:
+  * before run the code, you need install several tools. 
+  * these tools are: cmake, swig, box2d, zlib1g-dev, ffmpeg, 
+  > pip install cmake
+  > pip install swig
+  > pip install box2d
+  > pip install zlib1g-dev
+  > pip install ffmpeg
+  * and then install gym, and install all projects
+  > pip install gym
+  > pip install gym\[all]
   
